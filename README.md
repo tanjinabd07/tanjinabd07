@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./banner.png" alt="Tanjina Alam - Frontend Developer" width="100%">
 </div>
+<h1 align="center">Hi 👋, I'm Tanjina Alam</h1>
  👋 About Me
 
 Hi, I'm Tanjina Alam — a passionate Frontend Developer who loves building clean, responsive, and user-friendly websites.
@@ -11,7 +12,7 @@ Hi, I'm Tanjina Alam — a passionate Frontend Developer who loves building clea
 
 ✨ My Goal: To become a skilled and professional software developer.
 
-<h1 align="center">Hi 👋, I'm Tanjina Alam</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **javaScript, React**
